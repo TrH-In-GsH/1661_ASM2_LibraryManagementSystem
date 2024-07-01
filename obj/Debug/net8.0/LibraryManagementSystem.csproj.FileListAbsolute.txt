@@ -1,0 +1,14 @@
+E:\1651- Advanced programming - C#\New folder\1651_LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.exe
+E:\1651- Advanced programming - C#\New folder\1651_LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.deps.json
+E:\1651- Advanced programming - C#\New folder\1651_LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.runtimeconfig.json
+E:\1651- Advanced programming - C#\New folder\1651_LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.dll
+E:\1651- Advanced programming - C#\New folder\1651_LibraryManagementSystem\LibraryManagementSystem\bin\Debug\net8.0\LibraryManagementSystem.pdb
+E:\1651- Advanced programming - C#\New folder\1651_LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\1651- Advanced programming - C#\New folder\1651_LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfoInputs.cache
+E:\1651- Advanced programming - C#\New folder\1651_LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.AssemblyInfo.cs
+E:\1651- Advanced programming - C#\New folder\1651_LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.csproj.CoreCompileInputs.cache
+E:\1651- Advanced programming - C#\New folder\1651_LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.dll
+E:\1651- Advanced programming - C#\New folder\1651_LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\refint\LibraryManagementSystem.dll
+E:\1651- Advanced programming - C#\New folder\1651_LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.pdb
+E:\1651- Advanced programming - C#\New folder\1651_LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\LibraryManagementSystem.genruntimeconfig.cache
+E:\1651- Advanced programming - C#\New folder\1651_LibraryManagementSystem\LibraryManagementSystem\obj\Debug\net8.0\ref\LibraryManagementSystem.dll
